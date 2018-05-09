@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KsEdu</string>
+    <string name="toolbar_title">KoçSistem Akademi</string>
+
+
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="windows">Windows</string>
+    <string name="blackberry">Blackberry</string>
+    <string name="ionic">Ionic</string>
+    <string name="css">CSS</string>
+    <string name="html">HTML</string>
+    <string name="ruby">Ruby</string>
+    <string name="php">PHP</string>
+    <string name="python">Python</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+
+</resources>
